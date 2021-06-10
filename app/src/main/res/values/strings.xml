@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paging</string>
+
+    <string name="error_message_unexpected">An unexpected error has occurred.</string>
+    <string name="error_message_rate_limiting">GitHub API is likely rate limiting this request (or this error is cached). Add your personal access token to app/build.gradle: GITHUB_CLIENT_TOKEN.</string>
+    <string name="error_message_token">There was an error reaching out to the GitHub api. Invalid token?</string>
+    <string name="error_message_api_error">There was an error reaching out to the GitHub api.</string>
+    <string name="error_network">Error connecting to Github. Are you connected to the internet?</string>
+</resources>
